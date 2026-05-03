@@ -1,5 +1,9 @@
-Hello, I’m Ibitunde Olufemi
-I am a data analyst with proficiency in Python using Pandas, NumPy, and various libraries for Analysis and Machine Learning.
- X @Olufemoo_1, Gmail: ibitundesegun1@gmail.com
+# Hi, I'm Olufemi 👋
 
--->
+Data Analyst transitioning into AI & Backend Development.  
+I build data-driven solutions and I'm working towards developing intelligent, scalable systems.
+
+- 🧠 Currently learning: Backend Engineering & Machine Learning
+- 📊 Strong in: Python, SQL, Data Analysis
+- ⚙️ Tools: Pandas, NumPy, Excel, Git
+- 🌐 Exploring: Web3 & decentralized systems
