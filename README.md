@@ -1,7 +1,7 @@
 # Hi, I'm Olufemi 👋
 
 **Data Analyst → AI & Backend Developer (in progress)**
-I build data-driven solutions and I’m currently developing a predictive transportation system aimed at reducing road accidents.
+I build data-driven solutions 
 
 ---
 
