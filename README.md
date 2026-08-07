@@ -52,17 +52,14 @@ My interests span backend development, machine learning, data engineering, and s
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Olufemooshegs&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olufemooshegs&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Olufemooshegs&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Olufemooshegs&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Olufemooshegs&theme=tokyonight&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olufemooshegs&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## 🌍 What Interests Me
@@ -93,11 +90,7 @@ My interests span backend development, machine learning, data engineering, and s
 </p>
 
 ---
-## 🐍 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Olufemooshegs/Olufemooshegs/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 
 ## 📈 Activity Graph
 
