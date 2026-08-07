@@ -28,7 +28,7 @@ My interests span backend development, machine learning, data engineering, and s
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,java,c,sql" />
+<img src="https://skillicons.dev/icons?i=python,js,dart,sql" />
 </p>
 
 ### Backend & Databases
