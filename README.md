@@ -93,6 +93,17 @@ My interests span backend development, machine learning, data engineering, and s
 </p>
 
 ---
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Olufemooshegs/Olufemooshegs/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Olufemooshegs&theme=tokyo-night&hide_border=true" />
+</p>
 
 <p align="center">
 <i>"Code with purpose. Learn relentlessly. Build for impact."</i>
