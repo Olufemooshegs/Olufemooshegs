@@ -50,17 +50,6 @@ My interests span backend development, machine learning, data engineering, and s
 - Scikit-learn
 - Jupyter Notebook
 
----
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Olufemooshegs&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=Olufemooshegs&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olufemooshegs&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
----
 
 ## 🌍 What Interests Me
 
