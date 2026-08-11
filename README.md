@@ -6,6 +6,7 @@ AI & ML Engineer • Backend Developer • Data Analyst
 
 <p align="center">
 Building intelligent systems that transform data into decisions.
+Building backend systems that are reliable, scalable and maintainable
 </p>
 
 ---
