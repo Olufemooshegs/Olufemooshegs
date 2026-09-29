@@ -1,93 +1,32 @@
-<h1 align="center">Hi there, I'm Olufemi Ibitunde 👋</h1>
+<div align="center">
 
-<h3 align="center">
-AI & ML Engineer • Backend Developer • Data Analyst
-</h3>
+# Olufemi Ibitunde
 
-<p align="center">
-Building intelligent systems that transform data into decisions.
-Building backend systems that are reliable, scalable and maintainable
-</p>
+**Backend Engineer · Data · Cloud**
 
----
+I build reliable backend systems and data-driven applications, with a growing focus on distributed systems, performance, and cloud architecture.
 
-## 👨‍💻 About Me
+[LinkedIn](https://www.linkedin.com/in/olufemi-ibitunde-389aa1255) · [X](https://x.com/Olufemoo_1) · [Email](mailto:ibiturdesegun1@gmail.com)
 
-I'm passionate about building technology that solves real-world problems through the combination of data, software engineering, and artificial intelligence.
-
-My interests span backend development, machine learning, data engineering, and scalable system design. I enjoy turning ideas into reliable products while continuously improving my engineering skills.
-
-- 🌱 Currently deepening my knowledge of AI, Backend Engineering, and System Design
-- 🧠 Exploring Machine Learning and intelligent software systems
-- ⚙️ Building production-ready APIs and data-driven applications
-- 📚 Always learning, experimenting, and sharing knowledge
+</div>
 
 ---
 
-## 🛠 Tech Stack
+### What I work on
 
-### Languages
+- **Backend systems:** APIs, caching, concurrency, and system design
+- **Data engineering:** event-driven pipelines and analytics
+- **Cloud:** building and deploying services with AWS and Docker
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,dart,sql" />
-</p>
+### Selected work
 
-### Backend & Databases
+- [**High-Throughput API Service**](https://github.com/Olufemooshegs/high-throughput-api-service)  
+  A FastAPI system exploring async I/O, Redis caching, rate limiting, load balancing, and backpressure under load.
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,sqlite" />
-</p>
+### Tools I use
 
-### Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
-</p>
-
-### Data & AI
-
-- Pandas
-- NumPy
-- Scikit-learn
-- Jupyter Notebook
-
-
-## 🌍 What Interests Me
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- ⚙️ Backend Engineering
-- ☁️ Cloud Computing
-- 📊 Data Analytics
-- 🏗️ Software Architecture
+`Python` `FastAPI` `SQL` `PostgreSQL` `Redis` `Docker` `Git` `AWS`
 
 ---
 
-## 🤝 Let's Connect
-
-<p align="left">
-<a href="https://www.linkedin.com/in/olufemi-ibitunde-389aa1255">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/Olufemoo_1">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="mailto:ibiturdesegun1@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Olufemooshegs&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-<i>"Code with purpose. Learn relentlessly. Build for impact."</i>
-</p>
+<sub>Computer Science student at FUTA · Learning by building, testing, and improving systems.</sub>
