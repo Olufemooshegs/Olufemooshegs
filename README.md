@@ -54,23 +54,12 @@ Deepening my understanding of scalable backend architecture, cloud engineering, 
 Always open to learning from people building thoughtful, useful technology.
 
 ---
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Olufemooshegs&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olufemooshegs&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Olufemooshegs&theme=github-compact&hide_border=true" alt="GitHub contribution activity" />
-
-</div>
-
 ---
 
 <div align="center">
 
-*Building with purpose. Learning continuously.*
+### Building with purpose. Learning continuously.
+
+[LinkedIn](https://www.linkedin.com/in/olufemi-ibitunde-389aa1255) · [X](https://x.com/Olufemoo_1) · [GitHub](https://github.com/Olufemooshegs)
 
 </div>
